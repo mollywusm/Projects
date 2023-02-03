@@ -1,2 +1,2 @@
 # Projects
- Emerging Skills Trends Survey
+IBM-Data-Analyst-Capstone-Project: Emerging Skills Trends Survey
